@@ -9,15 +9,15 @@ cin >> str;
 for(int i = 0; i < str.length(); i++)
     {
          
-        char c = str[i];
+        char ch = str[i];
  
-        auto found = str2.find(c);
-       // cout<<"found"<<found;
+        auto x = str2.find(ch);
+       // cout<<"x"<<x;
        // cout<<"\nstd::string::npos"<<std::string::npos;
-        if (found == std::string::npos)
+        if (x == std::string::npos)
         {
              
-            str2 += c;
+            str2 += ch;
         }
     }
     
