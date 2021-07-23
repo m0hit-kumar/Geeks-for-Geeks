@@ -9,3 +9,6 @@ geeks for geeks practice questions
 <li><a href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Largest%20Element%20in%20Array.cpp " > Largest Element in Array </a></li>
 
 
+Total distance travelled in an array .cpp (more time complexity)
+Total distance travelled in an array .cpp (less time complexity)
+
