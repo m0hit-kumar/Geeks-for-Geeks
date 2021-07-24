@@ -20,4 +20,4 @@ geeks for geeks practice questions
  </li>
  
  
- <li href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Total%20distance%20travelled%20in%20an%20array%203.cpp "> Find element occuring once when all other are present thrice   </li>
+ <li ><a>href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Total%20distance%20travelled%20in%20an%20array%203.cpp "> Find element occuring once when all other are present thrice </a>  </li>
