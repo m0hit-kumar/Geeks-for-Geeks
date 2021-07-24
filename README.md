@@ -1,5 +1,5 @@
-# Geeks-for-Geeks
-geeks for geeks practice questions
+# Geeks-for-Geeks 
+## Solution of Geeks-for-Geeks Problems 
 
 
 <!--   <li><a href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Remove%20all%20duplicates%20from%20a%20given%20string.cpp " > text </a></li> -->
