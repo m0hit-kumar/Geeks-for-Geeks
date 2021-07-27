@@ -21,3 +21,7 @@
  
  
  <li ><a href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Total%20distance%20travelled%20in%20an%20array%203.cpp "> Find element occuring once when all other are present thrice </a>  </li>
+
+
+
+ <li ><a href="https://github.com/m0hit-kumar/Geeks-for-Geeks/blob/main/Game%20with%20nos.cpp">Game with nos  </a>  </li>
